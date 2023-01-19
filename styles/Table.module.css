@@ -1,0 +1,5 @@
+
+.table_row:hover{
+    cursor: pointer;
+    mask:linear-gradient( rgba(45, 45, 45, 0.68), #824646);
+}
